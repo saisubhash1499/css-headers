@@ -1,0 +1,21 @@
+.header{
+    border:1px solid black;
+	width:700px;
+	height:100px;
+	background-color:orange;
+}
+.search .ii{
+	margin-left:90px;
+	width:400px;
+}
+.links a{
+	margin-left:30px;
+	text-decoration:none;
+	color:black;
+	
+}
+.brand{
+	margin-top:20px;
+	color:white;
+	margin-left:55px;
+}

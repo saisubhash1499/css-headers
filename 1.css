@@ -1,0 +1,15 @@
+.header{
+		border:1px solid black;
+		height:100px;
+		width:600px;
+		background-color:SlateBlue;
+		display:block;
+}
+
+.header1{
+		border:1px solid black;
+		height:400px;
+		width:600px;
+		display:block;
+		background-color:gray;
+}
